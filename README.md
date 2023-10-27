@@ -7,3 +7,5 @@ Some of the projects I worked on invloved sales data analysis, The purpose of th
 
 
 Another Project I worked involved Employee Attrition Analysis in order to uncover insights on the various factors responsible for attrition in an organization.
+
+TOOLS USED: Python, POWER BI
